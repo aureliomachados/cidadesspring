@@ -11,9 +11,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
-import lombok.Data;
-import lombok.Getter;
-
 @Entity
 public  class Pais {
 
